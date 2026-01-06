@@ -1,0 +1,8 @@
+gradio
+pandas
+numpy
+matplotlib
+seaborn
+requests
+python-dotenv
+python-pptx
