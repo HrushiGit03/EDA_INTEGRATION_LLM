@@ -8,7 +8,7 @@ import gradio as gr
 import ollama
 
 # Load Titanic Dataset
-url = r"C:\Users\hrush\Documents\Naresh-IT\5.30_Batch_Practise\titanic_ dataset_final.csv"
+url = r"titanic_ dataset_final.csv" #Add your path here where 
 df = pd.read_csv(url)
 df.head()
 
